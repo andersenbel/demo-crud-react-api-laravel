@@ -60,7 +60,9 @@ Do not forget to start the migration of the database and populate it:
 Chenge directory:
 
     cd ./demo-crud-react-api-laravel/axios-vue
-
+    //init
+    npx vue-cli-service serve
+    //run
     npm run serve
     npm run build 
 
