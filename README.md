@@ -1,6 +1,7 @@
 ## Install with Docker
 ====================================
-Clone the latest version of laravel-hotel-booking app:
+
+Clone the latest version of services-laravel-store:
 
     git clone git@github.com:andersenbel/demo-crud-react-api-laravel
 
