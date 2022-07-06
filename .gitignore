@@ -1,0 +1,39 @@
+/services-laravel-store/node_modules
+/services-laravel-store/public/hot
+/services-laravel-store/public/storage
+/services-laravel-store/storage/*.key
+/services-laravel-store/vendor
+/services-laravel-store/.env
+/services-laravel-store/.env.backup
+/services-laravel-store/.phpunit.result.cache
+/services-laravel-store/Homestead.json
+/services-laravel-store/Homestead.yaml
+/services-laravel-store/npm-debug.log
+/services-laravel-store/yarn-error.log
+/.idea
+/.vscode
+/services-laravel-store/rm.sh
+
+/axios-vue/.DS_Store
+/axios-vue/node_modules
+/axios-vue/dist
+
+
+# local env files
+/axios-vue/.env.local
+/axios-vue/.env.*.local
+
+# Log files
+/axios-vue/npm-debug.log*
+/axios-vue/yarn-debug.log*
+/axios-vue/yarn-error.log*
+/axios-vue/pnpm-debug.log*
+
+# Editor directories and files
+/axios-vue/.idea
+/axios-vue/.vscode
+/axios-vue/*.suo
+/axios-vue/*.ntvs*
+/axios-vue/*.njsproj
+/axios-vue/*.sln
+/axios-vue/*.sw?
